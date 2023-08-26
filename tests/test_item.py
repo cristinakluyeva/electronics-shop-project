@@ -1,4 +1,4 @@
-from src import item
+from src.item import Item
 
 import pytest
 
